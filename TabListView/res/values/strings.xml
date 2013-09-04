@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabListView</string>
+    <string name="contentDescription"></string>
+    
+    <!-- tab -->
+    <string name="tab_1_name">Tab 1</string>
+    <string name="tab_2_name">Tab 2</string>
+    <string name="tab_3_name">Tab 3</string>
+
+</resources>
